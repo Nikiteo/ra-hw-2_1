@@ -12,7 +12,7 @@ https://nikiteo.github.io/ra-hw-2_1
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
 
-![portfolio-all](./assets/portfolio-all.png)
+![portfolio-all](./public/portfolio-all.png)
 
 ## Описание проекта
 
@@ -42,7 +42,7 @@ https://nikiteo.github.io/ra-hw-2_1
 - из компонента `Portfolio` передать активный фильтр в свойство `selected` компонента `Toolbar`
 - в компоненте `Portfolio` отфильтровать по активному фильтру проекты и передать их в компонент `ProjectList`
 
-![portfolio-cards.png](./assets/portfolio-cards.png)
+![portfolio-cards.png](./public/portfolio-cards.png)
 
 Набор данных для отображения:
 ```js
